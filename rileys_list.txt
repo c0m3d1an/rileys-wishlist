@@ -663,7 +663,6 @@ dimwishlist:item=1392919471&perks=839105230,3142289711,2387244414,699525795
 
 // Commemeration
 //notes:Riley (??? PVE ???): Recommended Masterwork - Range
-
 Hammer-Forged + Accurized + Feeding Frenzy + Rampage is reeeeaaaal close to the curated Hammerhead if you want that.
 |tags:PVE
 dimwishlist:item=2868432352&perks=1482024992,106909392,1523832109,3425386926
@@ -698,7 +697,6 @@ dimwishlist:item=2868432352&perks=839105230,3142289711,1523832109,3865257976
 
 // Commemeration
 //notes:Riley (??? PVE ???): Recommended Masterwork - Range
-
 Hammer-Forged + Accurized + Feeding Frenzy + Rampage is reeeeaaaal close to the curated Hammerhead if you want that.
 |tags:PVE
 dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926
@@ -840,9 +838,7 @@ dimwishlist:item=167561626&perks=1180618054,269888150,2726471870,354401740
 
 // Bottom Dollar
 //notes:Riley (??? PVE ???): Masterwork - Stability / Handling / Reload
-
 If you've got Outlaw, you can pretty much ignore any other reload boosting things, so I prioritize stability and handling on this archetype.
-
 |tags:PVE
 dimwishlist:item=1046651176&perks=1840239774,3177308360,1528281896,3425386926
 dimwishlist:item=1046651176&perks=839105230,3177308360,1528281896,3425386926
@@ -1115,7 +1111,6 @@ dimwishlist:item=1046651176&perks=1482024992,2635532173,706527188,3425386926
 
 // The Palindrome
 //notes:Riley (??? PVE ???): Masterwork - Stability / Handling / Range
-
 Solid 140, even better if you get a good adept version. This'll probably be my dire promise replacement.|tags:PVE
 dimwishlist:item=432476743&perks=1482024992,1885400500,3643424744,3551326236
 dimwishlist:item=432476743&perks=839105230,1885400500,3643424744,3551326236
@@ -1156,7 +1151,6 @@ dimwishlist:item=432476743&perks=3250034553,679225683,1528281896,3425386926
 
 // The Palindrome
 //notes:Riley (??? PVP ???): Masterwork - Stability / Handling / Range
-
 Same as pve notes.|tags:PVP
 dimwishlist:item=432476743&perks=1482024992,1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=3250034553,1885400500,2450788523,2846385770
@@ -1372,7 +1366,6 @@ dimwishlist:item=3473290087&perks=1482024992,2635532173,588594999,706527188
 
 // Extraordinary Rendition
 //notes:Riley (??? PVE ???): Masterwork - Stability / Handling / Reload
-
 Haven't really played around with Frenzy yet, but it could be a lot of fun. Overflow/Rampage is a guaranteed good combo though.|tags:PVE
 dimwishlist:item=1097616550&perks=1482024992,106909392,3643424744,3551326236
 dimwishlist:item=1097616550&perks=3250034553,106909392,3643424744,3551326236
