@@ -839,7 +839,8 @@ dimwishlist:item=167561626&perks=1180618054,269888150,2726471870,354401740
 
 
 // Bottom Dollar
-//notes:Riley (??? PVE ???): If you've got Outlaw, you can pretty much ignore any other reload boosting things, so I prioritize stability and handling on this archetype.
+//notes:Riley (??? PVE ???): Masterwork - Stability / Handling / Reload
+If you've got Outlaw, you can pretty much ignore any other reload boosting things, so I prioritize stability and handling on this archetype.
 |tags:PVE
 dimwishlist:item=1046651176&perks=1840239774,3177308360,1528281896,3038247973
 dimwishlist:item=1046651176&perks=839105230,3177308360,1528281896,3038247973
