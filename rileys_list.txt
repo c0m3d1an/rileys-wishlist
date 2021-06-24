@@ -1276,11 +1276,11 @@ dimwishlist:item=2545083870&perks=981914802,2822142346,3977735242,1015611457
 dimwishlist:item=2545083870&perks=3525010810,2822142346,3977735242,1015611457
 dimwishlist:item=2545083870&perks=1441682018,2822142346,3977735242,1015611457
 
-title:God Roll Artorias
-description:List of god rolls to look for in the new weapons
+//title:God Roll Artorias
+//description:List of god rolls to look for in the new weapons
 
 // Riiswalker - Riiswalker (PvP) (god-pvp)
-//notes: You want full choke on this thing and iron reach. Beyond 70 range doesn't increase the effectiveness of this weapon, so you can add assault mag for a bit more stability if you have a range masterwork. tags:god-pvp
+//notes: You want full choke on this thing and iron reach. Beyond 70 range doesn't increase the effectiveness of this weapon, so you can add assault mag for a bit more stability if you have a range masterwork.|tags:god-pvp
 dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
 dimwishlist:item=108221785&perks=1047830412,791862061,280464955,591790007
 dimwishlist:item=108221785&perks=1047830412,679225683,706527188,591790007
@@ -1290,7 +1290,7 @@ dimwishlist:item=108221785&perks=1047830412,3142289711,280464955,591790007
 
 
 // Ignition Code - Ignition Code PvE (god-pve)
-//notes: Best roll for PvE. Switch between spike and blinds for DPS or ad control. One for all or vorpal works for final column. tags:god-pve
+//notes: Best roll for PvE. Switch between spike and blinds for DPS or ad control. One for all or vorpal works for final column.|tags:god-pve
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,4049631843
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391
@@ -1298,7 +1298,7 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,4049631843
 
 
 // Ignition Code - PvP roll Ignition Code (god-pvp)
-//notes: Perks wanted for ignition code in PvP tags:god-pvp
+//notes: Perks wanted for ignition code in PvP|tags:god-pvp
 dimwishlist:item=304659313&perks=3525010810,409831596,3161816588,2726471870
 dimwishlist:item=304659313&perks=3525010810,409831596,3161816588,1546637391
 dimwishlist:item=304659313&perks=981914802,409831596,3161816588,2726471870
@@ -1306,13 +1306,13 @@ dimwishlist:item=304659313&perks=981914802,409831596,3161816588,1546637391
 
 
 // Survivor's Epitaph - Survivor's Epitaph PvP God Roll (god-pvp)
-//notes: This is the best roll for pvp in my opinion. It needs any range help it can get and rapid hit takes care of the reload speed of the weapon. tags:god-pvp
+//notes: This is the best roll for pvp in my opinion. It needs any range help it can get and rapid hit takes care of the reload speed of the weapon.|tags:god-pvp
 dimwishlist:item=310708513&perks=3250034553,1561002382,247725512,1015611457
 dimwishlist:item=310708513&perks=3250034553,1968497646,247725512,1015611457
 
 
 // PLUG ONE.1 (Adept) - Plug One (PvP) (god-pvp)
-//notes: This thing is set to be the next erentil. Any stability or range options help with this weapons consistency as both affect bolt spread. For pvp I'd opt for liquid coils just for consistency and kickstart helps with engagements. tags:god-pvp
+//notes: This thing is set to be the next erentil. Any stability or range options help with this weapons consistency as both affect bolt spread. For pvp I'd opt for liquid coils just for consistency and kickstart helps with engagements.|tags:god-pvp
 dimwishlist:item=534775659&perks=3250034553,1687452232,1570042021,1754714824
 dimwishlist:item=534775659&perks=3250034553,1687452232,1570042021,2726471870
 dimwishlist:item=534775659&perks=1482024992,1687452232,1570042021,1754714824
@@ -1322,7 +1322,7 @@ dimwishlist:item=534775659&perks=3661387068,1687452232,1570042021,2726471870
 
 
 // PLUG ONE.1 (Adept) - Plug One (PvE) (god-pve)
-//notes: Great options are available for this weapon in PvE. Fusions are seriously underrated in PvE and this one is strong with many different options. tags:god-pve
+//notes: Great options are available for this weapon in PvE. Fusions are seriously underrated in PvE and this one is strong with many different options.|tags:god-pve
 dimwishlist:item=534775659&perks=3250034553,1687452232,1570042021,1799762209
 dimwishlist:item=534775659&perks=3250034553,1687452232,1570042021,1427256713
 dimwishlist:item=534775659&perks=3250034553,1687452232,2779035018,1799762209
@@ -1358,7 +1358,7 @@ dimwishlist:item=534775659&perks=839105230,689005463,2779035018,1427256713
 
 
 // Uzume RR4 (Adept) - Uzume (PvP) (god-pvp,pvp)
-//notes: I liked this sniper in D1 because of its sound and uniqueness. It's definitely worth trying out in the crucible, especially since it can roll with snapshot. tags:god-pvp,pvp
+//notes: I liked this sniper in D1 because of its sound and uniqueness. It's definitely worth trying out in the crucible, especially since it can roll with snapshot.|tags:god-pvp,pvp
 dimwishlist:item=852228780&perks=3250034553,3142289711,957782887,1546637391
 dimwishlist:item=852228780&perks=3250034553,3142289711,957782887,2726471870
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
@@ -1366,7 +1366,7 @@ dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,2726471870
 
 
 // Chroma Rush - God Roll Chroma Rush PvP (god-pvp)
-//notes: Great PvP roll. I prefer rampage over kill clip so I don't have to worry about the reload between kills. Heating up is a great new perk that adds to the weapons lethality. tags:god-pvp
+//notes: Great PvP roll. I prefer rampage over kill clip so I don't have to worry about the reload between kills. Heating up is a great new perk that adds to the weapons lethality.|tags:god-pvp
 dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,3425386926
 dimwishlist:item=1119734784&perks=839105230,106909392,1570042021,3425386926
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,3425386926
@@ -1376,7 +1376,7 @@ dimwishlist:item=1119734784&perks=1482024992,106909392,1570042021,3425386926
 
 
 // Fatebringer (Timelost) - Fatebringer god roll PvP (god-pvp)
-//notes: This is the roll you want for pvp. Explosive payload ignores range dropoff which is nice. Killing wind works here as well. opening shot or kill clip for a bit more lethality makes this weapon a force to be reckoned with. tags:god-pvp
+//notes: This is the roll you want for pvp. Explosive payload ignores range dropoff which is nice. Killing wind works here as well. opening shot or kill clip for a bit more lethality makes this weapon a force to be reckoned with.|tags:god-pvp
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,1015611457
@@ -1396,7 +1396,7 @@ dimwishlist:item=1216319404&perks=202670084,3230963543,2450788523,47981717
 
 
 // Gridskipper - Gridskipper (PvP) (god-pvp)
-//notes: This weapon feels good with almost any perk combination. This allows for opting for perks that increase its lethality like multikill clip or high impact reserves.  tags:god-pvp
+//notes: This weapon feels good with almost any perk combination. This allows for opting for perks that increase its lethality like multikill clip or high impact reserves. |tags:god-pvp
 dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2213355989
 dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2458213969
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,2213355989
@@ -1424,7 +1424,7 @@ dimwishlist:item=1621558458&perks=1840239774,1885400500,2450788523,2458213969
 
 
 // Praedyth's Revenge (Timelost) - Praedyth's Revenge (PvP) (god-pvp)
-//notes: Any extra range will help this weapon with consistency as it is tied to aim assist. Adding stability or range will help bring this weapon to the next level. tags:god-pvp
+//notes: Any extra range will help this weapon with consistency as it is tied to aim assist. Adding stability or range will help bring this weapon to the next level.|tags:god-pvp
 dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,47981717
 dimwishlist:item=1987769101&perks=1840239774,3142289711,2866798147,47981717
 dimwishlist:item=1987769101&perks=3250034553,3142289711,706527188,47981717
@@ -1432,7 +1432,7 @@ dimwishlist:item=1987769101&perks=3250034553,3142289711,2866798147,47981717
 
 
 // Praedyth's Revenge (Timelost) - Praedyth's Revenge (PvE) (god-pve)
-//notes: Osmosis would make this thing interesting for more challenging content. Rewind rounds seem to be interesting for trial runs to see if it is preferred. tags:god-pve
+//notes: Osmosis would make this thing interesting for more challenging content. Rewind rounds seem to be interesting for trial runs to see if it is preferred.|tags:god-pve
 dimwishlist:item=1987769101&perks=1840239774,3142289711,1774574192,3824105627
 dimwishlist:item=1987769101&perks=1840239774,3142289711,3418782618,3824105627
 dimwishlist:item=1987769101&perks=3250034553,3142289711,1774574192,3824105627
@@ -1440,7 +1440,7 @@ dimwishlist:item=1987769101&perks=3250034553,3142289711,3418782618,3824105627
 
 
 // Memory Interdict - Memory Interdict (PvP) (god-pvp,pvp)
-//notes: This thing is the new pvp gl monster because it rolls with impulse amplifier, which makes it really easy to get kills with across the map. Combine that with wellspring or chain reaction to watch the mayhem ensue. tags:god-pvp,pvp
+//notes: This thing is the new pvp gl monster because it rolls with impulse amplifier, which makes it really easy to get kills with across the map. Combine that with wellspring or chain reaction to watch the mayhem ensue.|tags:god-pvp,pvp
 dimwishlist:item=3165547384&perks=1478423395,409831596,951095735,3592538738
 dimwishlist:item=3165547384&perks=1478423395,409831596,951095735,2396489472
 dimwishlist:item=3165547384&perks=981914802,409831596,951095735,3592538738
@@ -1448,7 +1448,7 @@ dimwishlist:item=3165547384&perks=981914802,409831596,951095735,2396489472
 
 
 // Finite Impactor - Finite Impactor (PvP) (god-pvp)
-//notes: This weapon suffers from a range problem. This can be compensated for with iron reach. Combine that with killing wind or heating up and you've got a fun weapon. tags:god-pvp
+//notes: This weapon suffers from a range problem. This can be compensated for with iron reach. Combine that with killing wind or heating up and you've got a fun weapon.|tags:god-pvp
 dimwishlist:item=3813153080&perks=1926090092,1561002382,1570042021,591790007
 dimwishlist:item=3813153080&perks=1926090092,1561002382,1570042021,2458213969
 dimwishlist:item=3813153080&perks=1926090092,1561002382,2450788523,591790007
@@ -1476,11 +1476,11 @@ dimwishlist:item=3813153080&perks=1926090091,1968497646,2450788523,2458213969
 
 
 // Shayura's Wrath (Adept) - Shayura's Wrath (PvP) (god-pvp,pvp)
-//notes: This thing melts. Get a roll with killing wind and kill clip with a range masterwork and range mag/barrels and you'll feel like you're using an AR with a faster ttk. tags:god-pvp,pvp
+//notes: This thing melts. Get a roll with killing wind and kill clip with a range masterwork and range mag/barrels and you'll feel like you're using an AR with a faster ttk.|tags:god-pvp,pvp
 dimwishlist:item=4023807721&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,1015611457
 
 
 // Empty Vessel - Empty Vessel (PvP) (god-pvp)
-//notes: Personally I prefer autoloading holster on this thing even in pvp. Combine that with disruption break and proximity and you've got a nasty skill shot weapon :) tags:god-pvp
+//notes: Personally I prefer autoloading holster on this thing even in pvp. Combine that with disruption break and proximity and you've got a nasty skill shot weapon :)|tags:god-pvp
 dimwishlist:item=4255586669&perks=3525010810,409831596,3300816228,1683379515
